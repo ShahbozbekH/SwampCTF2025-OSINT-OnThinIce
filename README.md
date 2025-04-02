@@ -10,9 +10,9 @@ Within the metadata of the blank.jpg file, the following title can be found: D3 
 
 This is a UTF8 hex encoding for the phrase: Ӧкмысӧд воськов. Мездлун. 
 
-This can be translated using Google Translate's auto-detect feature, which will recognize the language as Komi and translate it to "Step eight. Freedom." Searching for the phrase on any web browser returns the reference material. This phrase refers to a line said in the video game "Black Ops" during the Vorkuta mission, where the protagonist escapes from a gulag in the city of Vorkuta, located in the modern day Komi Republic, Russia. 
+This can be translated using Google Translate's auto-detect feature, which will recognize the language as Komi and translate it to "Step eight. Freedom." Searching for the phrase on any web browser returns the reference material, Call of Duty Black Ops 1. This phrase refers to a line said during the Vorkuta mission, where the protagonist escapes from a gulag in the city of Vorkuta, located in the modern day Komi Republic, Russia. 
 
-The next logical step is to search for ice skating rinks in Vorkuta, Komi Republic, Russia, of which there are 2, with “УСЗК "ОЛИМП"” having a higher rating. Sorting the reviews of based on recency reveals the flag for this challenge (the review has since been removed): 
+The next logical step is to search for ice skating rinks in Vorkuta, Komi Republic, Russia, of which there are 2, with “УСЗК "ОЛИМП"” having a higher rating. Sorting the reviews of the location, based on recency, reveals the flag for this challenge (the review has since been removed): 
 
 ![alt text](https://github.com/ShahbozbekH/SwampCTF2025-OSINT-OnThinIce/blob/main/review.jpg)
 
